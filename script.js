@@ -15,4 +15,4 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   this.reset();
 });
 
-we are learning slave-server
+
